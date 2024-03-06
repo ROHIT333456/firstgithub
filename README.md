@@ -4,4 +4,5 @@ given by the bhaiya
 this is my first github reprogectry
 <br>
 Author - rohit shivam
+collage name bit mesra ranchi
 
